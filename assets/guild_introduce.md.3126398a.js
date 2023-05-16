@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.c70d819a.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guild/introduce.md","filePath":"guild/introduce.md"}'),o={name:"guild/introduce.md"};function a(c,n,d,i,s,p){return r(),t("div")}const l=e(o,[["render",a]]);export{_ as __pageData,l as default};
